@@ -2,7 +2,8 @@
 
 Welcome to my page! <br>
 I'm Yeray, Fullstack developer from 🇪🇸 Elche, Spain. <br>
-My favourite tools: HTML, CSS, Javascript, ReactJS, MaterialUI.
+My favourite Frontend tools: HTML, CSS, Javascript, ReactJS, MaterialUI.
+My favourite Backend tools: Java, Pyhton, Springboot, NodeJS.
 <br>
 <br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yeray-nm1)
